@@ -1,6 +1,6 @@
 package by.homework3;
 
-public class FourthTask {
+public class FourthTaskHW3 {
     public static void main(String[] args) {
         String str = "Do you have a plan ? I don't have even a pla";
         String[] split = str.split(" ");
